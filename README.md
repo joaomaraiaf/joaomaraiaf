@@ -7,5 +7,4 @@ Desenvolvedor **Full Stack** com 4+ anos de experiência construindo aplicaçõe
 - **Nota:** A maior parte do meu código nos últimos anos está em repositórios corporativos privados e projetos proprietários.
 
 🌐 **Portfólio:** [joaomaraia.agenai.app.br](https://joaomaraia.agenai.app.br)  
-🛠️ **Projeto pessoal:** [everydaytoolbox.app](https://everydaytoolbox.app)  
 💼 **LinkedIn:** [linkedin.com/in/joaomaraiaf](https://linkedin.com/in/joaomaraiaf)
